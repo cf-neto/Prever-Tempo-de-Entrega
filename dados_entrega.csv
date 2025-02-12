@@ -1,0 +1,101 @@
+Distancia (km),Tipo de Transporte,Trafego,Regiao,Tempo de Entrega (min)
+56,Van,Leve,Zona Rural,108.0
+97,Van,Leve,Subúrbio,136.5
+19,Van,Moderado,Centro,32.5
+76,Caminhão,Moderado,Centro,140.0
+65,Caminhão,Moderado,Subúrbio,148.5
+25,Caminhão,Pesado,Centro,84.5
+87,Bicicleta,Moderado,Subúrbio,155.5
+91,Caminhão,Pesado,Centro,184.5
+79,Caminhão,Leve,Centro,138.5
+79,Caminhão,Pesado,Zona Rural,203.5
+92,Bicicleta,Moderado,Zona Rural,189.0
+28,Caminhão,Leve,Centro,61.0
+7,Van,Leve,Centro,-7.5
+26,Caminhão,Leve,Zona Rural,96.0
+57,Van,Pesado,Zona Rural,137.5
+6,Van,Moderado,Zona Rural,40.0
+92,Van,Leve,Subúrbio,131.0
+34,Bicicleta,Leve,Centro,63.0
+42,Bicicleta,Leve,Zona Rural,112.0
+6,Bicicleta,Pesado,Centro,39.0
+68,Caminhão,Pesado,Subúrbio,159.0
+64,Van,Moderado,Subúrbio,114.0
+25,Bicicleta,Pesado,Zona Rural,112.5
+37,Bicicleta,Leve,Subúrbio,78.5
+80,Caminhão,Moderado,Centro,156.0
+62,Bicicleta,Leve,Zona Rural,141.0
+26,Caminhão,Leve,Centro,63.0
+93,Moto,Pesado,Centro,150.5
+53,Bicicleta,Moderado,Subúrbio,105.5
+95,Moto,Pesado,Subúrbio,180.5
+63,Caminhão,Pesado,Subúrbio,160.5
+46,Van,Moderado,Subúrbio,93.0
+96,Bicicleta,Leve,Subúrbio,163.0
+64,Caminhão,Leve,Zona Rural,141.0
+84,Van,Moderado,Centro,135.0
+19,Van,Leve,Centro,18.5
+66,Moto,Moderado,Centro,98.0
+66,Caminhão,Moderado,Centro,124.0
+51,Van,Pesado,Subúrbio,103.5
+66,Bicicleta,Moderado,Centro,125.0
+55,Bicicleta,Pesado,Zona Rural,153.5
+59,Moto,Leve,Zona Rural,102.5
+68,Van,Leve,Centro,88.0
+7,Caminhão,Leve,Centro,23.5
+55,Bicicleta,Leve,Zona Rural,117.5
+11,Van,Pesado,Zona Rural,68.5
+25,Van,Leve,Subúrbio,46.5
+77,Moto,Moderado,Zona Rural,154.5
+43,Bicicleta,Moderado,Subúrbio,91.5
+22,Bicicleta,Moderado,Subúrbio,65.0
+8,Caminhão,Pesado,Subúrbio,81.0
+93,Bicicleta,Leve,Subúrbio,164.5
+64,Caminhão,Leve,Subúrbio,128.0
+18,Bicicleta,Leve,Centro,44.0
+13,Moto,Pesado,Zona Rural,68.5
+94,Bicicleta,Moderado,Subúrbio,184.0
+57,Caminhão,Moderado,Zona Rural,156.5
+6,Caminhão,Leve,Zona Rural,67.0
+88,Moto,Moderado,Subúrbio,141.0
+96,Bicicleta,Moderado,Centro,167.0
+64,Bicicleta,Pesado,Subúrbio,147.0
+75,Moto,Pesado,Centro,122.5
+48,Bicicleta,Pesado,Zona Rural,132.0
+12,Bicicleta,Pesado,Centro,62.0
+51,Caminhão,Leve,Centro,87.5
+39,Bicicleta,Pesado,Centro,103.5
+82,Bicicleta,Moderado,Zona Rural,175.0
+85,Moto,Leve,Zona Rural,149.5
+40,Moto,Moderado,Centro,55.0
+54,Van,Moderado,Centro,91.0
+8,Caminhão,Moderado,Subúrbio,53.0
+6,Bicicleta,Pesado,Centro,43.0
+10,Bicicleta,Pesado,Subúrbio,57.0
+58,Van,Leve,Centro,78.0
+8,Bicicleta,Leve,Subúrbio,37.0
+58,Caminhão,Pesado,Zona Rural,175.0
+97,Van,Moderado,Centro,144.5
+67,Caminhão,Leve,Centro,123.5
+22,Van,Pesado,Centro,47.0
+94,Van,Pesado,Centro,165.0
+48,Moto,Pesado,Subúrbio,108.0
+38,Caminhão,Moderado,Centro,95.0
+78,Bicicleta,Pesado,Zona Rural,196.0
+66,Bicicleta,Pesado,Zona Rural,163.0
+18,Caminhão,Pesado,Centro,78.0
+99,Bicicleta,Pesado,Zona Rural,223.5
+52,Bicicleta,Leve,Centro,93.0
+19,Caminhão,Leve,Centro,44.5
+76,Van,Pesado,Zona Rural,157.0
+82,Caminhão,Moderado,Centro,148.0
+91,Van,Leve,Zona Rural,150.5
+66,Bicicleta,Pesado,Subúrbio,148.0
+44,Bicicleta,Leve,Centro,70.0
+89,Bicicleta,Leve,Subúrbio,146.5
+84,Moto,Moderado,Zona Rural,152.0
+86,Van,Pesado,Subúrbio,168.0
+57,Moto,Pesado,Subúrbio,114.5
+28,Moto,Moderado,Zona Rural,85.0
+30,Caminhão,Moderado,Subúrbio,80.0
+93,Moto,Pesado,Subúrbio,163.5
